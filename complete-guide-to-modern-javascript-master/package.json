@@ -1,0 +1,16 @@
+{
+  "name": "complete-guide-to-modern-javascript",
+  "version": "1.0.0",
+  "description": "모던 자바스크립트 핵심 가이드(The Complete Guide to Modern-JavaScript)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
